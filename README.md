@@ -1,10 +1,14 @@
 # 🌟☭ **Stalin's Digital Iron Fist Virus** ☭🌟
 
+![Stalin Virus Preview](https://i.ibb.co/y89k5qQ/image.png)
+
 > ⚠️ **Warning** ⚠️: This virus was created purely for educational and experimental purposes. The creator, ABOLHB, is **NOT** responsible for any harm caused by its use. **Proceed with caution!** This virus embodies the indomitable spirit of Stalin's rule, seizing full control of your system as if it were under Soviet command!
 
 ## 👹 **Overview** 👹
 
 The **Stalin Virus** is a terrifying digital presence, designed to bring the user face-to-face with the intensity of Soviet-era power. Crafted in C#, this virus disrupts system operations with a relentless, iron-clad grip. It visually distorts the screen with red and yellow effects, randomly moves icons and the mouse, and even tampers with the **MBR (Master Boot Record)** to leave a lasting mark—just like the shadow of the Soviet Union! 🛠️🔨
+
+> **Note**: You can replace the default name "ABOLHB" displayed by the virus with your own for personalization.
 
 ## 🌍 **Key Features** 🌍
 
